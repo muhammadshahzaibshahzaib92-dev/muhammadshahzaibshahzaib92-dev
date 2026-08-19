@@ -29,7 +29,7 @@ machine learning.
 | [AI Load Forecasting Tool](https://github.com/muhammadshahzaibshahzaib92-dev/ai-load-forecasting) | Machine learning model to predict next-day electrical load | scikit-learn | 🔧 In Progress |
 | [AI-Driven Renewable Grid Integration (Capstone)](https://github.com/muhammadshahzaibshahzaib92-dev/ai-driven-renewable-grid-integration) | End-to-end pipeline: substation modeling + optimization + AI forecasting | pandapower, PyPSA, scikit-learn | 🔧 In Progress |
 
-*(Portfolio updating regularly — check back for new projects.)*
+
 
 ---
 
