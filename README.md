@@ -13,7 +13,7 @@ machine learning.
 
 ## 🔧 Core Skills
 - **Power System Analysis:** ETAP, pandapower — Load Flow, Short Circuit (IEEE 1584), Protection Coordination, IEEE 80 Grounding
-- **Renewable & AI Drive Grid Optimization:** PyPSA, Solar/Battery Dispatch Modeling
+- **Renewable & AI Driven Grid Optimization:** PyPSA, Solar/Battery Dispatch Modeling
 - **Programming & Data:** Python, numpy, pandas, matplotlib, scikit-learn
 - **Experience:** IESCO Substation Internship (11kV/33kV) | FoxESS Grid-Tied Solar Inverter Training
 
