@@ -24,7 +24,7 @@ machine learning.
 | Project | Description | Tools | Status |
 |---|---|---|---|
 | [Substation Load Flow & Short Circuit Model](https://github.com/muhammadshahzaibshahzaib92-dev/substation-power-system-model) | 132kV/11kV substation analysis — load flow, transformer loading, fault currents | pandapower | ✅ Complete |
-| [Python Power Utilities](https://github.com/muhammadshahzaibshahzaib92-dev/python-power-utilities) | Beginner Python tools for power calculations and data handling | Python, pandas | 🔧 In Progress |
+| [Python Power Utilities](https://github.com/muhammadshahzaibshahzaib92-dev/python-power-utilities) | Beginner Python tools for power calculations and data handling |ETAP , Python, pandas | 🔧 In Progress |
 | [Solar + Battery Microgrid Optimization](https://github.com/muhammadshahzaibshahzaib92-dev/solar-battery-microgrid-optimization) | Optimal dispatch of solar PV + battery storage to minimize cost | PyPSA | 🔧 In Progress |
 | [AI Load Forecasting Tool](https://github.com/muhammadshahzaibshahzaib92-dev/ai-load-forecasting) | Machine learning model to predict next-day electrical load | scikit-learn | 🔧 In Progress |
 | [AI-Driven Renewable Grid Integration (Capstone)](https://github.com/muhammadshahzaibshahzaib92-dev/ai-driven-renewable-grid-integration) | End-to-end pipeline: substation modeling + optimization + AI forecasting | pandapower, PyPSA, scikit-learn | 🔧 In Progress |
