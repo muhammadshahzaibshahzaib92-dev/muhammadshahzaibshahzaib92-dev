@@ -41,8 +41,6 @@ Final Year Project: Single-phase 5kVA Transformer-less HERIC Topology Grid-Tied 
 
 ## 📫 Connect
 - LinkedIn: www.linkedin.com/in/muhammad-shahzaib-b41a3b26b
-
-]
 - Email: muhammadshahzaibshahzaib92@gmail.com
 
 ---
