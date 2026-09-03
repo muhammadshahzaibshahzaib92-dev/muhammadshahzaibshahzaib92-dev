@@ -22,7 +22,7 @@ machine learning.
 ## 📂 Project Portfolio
 | Project | Description | Tools | Status |
 |---|---|---|---|
-AI- Driven Renewable Grid Integration (Capstone)
+AI- Driven Renewable Grid Integration (Capstone) Combination of Different projects
 | [Substation Load Flow & Short Circuit Model](https://github.com/muhammadshahzaibshahzaib92-dev/substation-power-system-model) | 132kV/11kV substation analysis — load flow, transformer loading, fault currents | pandapower | ✅ Complete |
 | [Python Power Utilities](https://github.com/muhammadshahzaibshahzaib92-dev/python-power-utilities) | Beginner Python tools for power calculations and data handling |ETAP , Python, pandas | ✅ Complete |
 | [Solar + Battery Microgrid Optimization](https://github.com/muhammadshahzaibshahzaib92-dev/solar-battery-microgrid-optimization) | Optimal dispatch of solar PV + battery storage to minimize cost | PyPSA | ✅ Complete |
