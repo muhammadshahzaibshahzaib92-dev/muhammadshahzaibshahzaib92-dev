@@ -20,15 +20,22 @@ machine learning.
 
 ---
 ## 📂 Project Portfolio
+## 🔌 AI-Driven Grid Automation Portfolio
+
+> 🏆 **Capstone Project** — combines all projects below into one complete pipeline
+
 | Project | Description | Tools | Status |
 |---|---|---|---|
-| [AI-Driven Renewable Grid Integration (Capstone)](https://github.com/muhammadshahzaibshahzaib92-dev/ai-driven-renewable-grid-integration) | End-to-end pipeline: substation modeling + optimization + AI forecasting | pandapower, PyPSA, scikit-learn | ✅ Complete |
-| [Substation Load Flow & Short Circuit Model](https://github.com/muhammadshahzaibshahzaib92-dev/substation-power-system-model) | 132kV/11kV substation analysis — load flow, transformer loading, fault currents | pandapower | ✅ Complete |
-| [Python Power Utilities](https://github.com/muhammadshahzaibshahzaib92-dev/python-power-utilities) | Beginner Python tools for power calculations and data handling | ETAP, Python, pandas | ✅ Complete |
-| [Solar + Battery Microgrid Optimization](https://github.com/muhammadshahzaibshahzaib92-dev/Solar-Battery-Microgrid-Optimization) | Optimal dispatch of solar PV + battery storage to minimize cost | PyPSA | ✅ Complete |
-| [AI Load Forecasting Tool](https://github.com/muhammadshahzaibshahzaib92-dev/AI_Load_Forecasting_Tool) | Machine learning model to predict next-day electrical load | scikit-learn | ✅ Complete |
+| 🏆 **[AI-Driven Renewable Grid Integration (Capstone)](https://github.com/muhammadshahzaibshahzaib92-dev/ai-driven-renewable-grid-integration)** | **End-to-end pipeline** combining substation modeling + optimization + AI forecasting *(built using all 4 projects below)* | pandapower, PyPSA, scikit-learn | ✅ Complete |
 
+**⬇️ Built from these individual components:**
 
+| Project | Description | Tools | Status |
+|---|---|---|---|
+| ⚙️ [Substation Load Flow & Short Circuit Model](https://github.com/muhammadshahzaibshahzaib92-dev/substation-power-system-model) | 132kV/11kV substation analysis — load flow, transformer loading, fault currents | pandapower | ✅ Complete |
+| ⚙️ [Python Power Utilities](https://github.com/muhammadshahzaibshahzaib92-dev/python-power-utilities) | Beginner Python tools for power calculations and data handling | ETAP, Python, pandas | ✅ Complete |
+| ⚙️ [Solar + Battery Microgrid Optimization](https://github.com/muhammadshahzaibshahzaib92-dev/Solar-Battery-Microgrid-Optimization) | Optimal dispatch of solar PV + battery storage to minimize cost | PyPSA | ✅ Complete |
+| ⚙️ [AI Load Forecasting Tool](https://github.com/muhammadshahzaibshahzaib92-dev/AI_Load_Forecasting_Tool) | Machine learning model to predict next-day electrical load | scikit-learn | ✅ Complete |
 ---
 
 ## 🎓 Education
