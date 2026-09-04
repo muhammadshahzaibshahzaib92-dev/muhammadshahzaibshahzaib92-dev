@@ -20,7 +20,7 @@ machine learning.
 
 ---
 ## 📂 Project Portfolio
-## 🔌 AI-Driven Grid Automation Portfolio
+## 🔌 AI-Driven Grid Optimization Portfolio
 
 > 🏆 **Capstone Project** — combines all projects below into one complete pipeline
 
