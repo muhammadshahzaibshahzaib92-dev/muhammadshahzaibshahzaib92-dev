@@ -7,7 +7,8 @@ studies to AI-driven renewable energy grid integration. Currently building a
 project portfolio combining traditional power system engineering with Python and
 machine learning.
 ## 📜 Certifications
-- [AI-Driven Grid Operation & Optimization Internship – MULTIWORKS](MULTIWORKS_Internship_Certificate.pdf)
+- ## 📜 Certifications
+- [AI-Driven Grid Operation & Optimization Internship – MULTIWORKS](Internship_Certificate_Redacted.pdf)
 
 📍 Based in Islamabad, Pakistan | Open to roles in GCC, and Europe
 
@@ -18,7 +19,7 @@ machine learning.
 - **Power System Analysis:** ETAP, pandapower — Load Flow, Short Circuit (IEEE 1584), Protection Coordination, IEEE 80 Grounding
 - **Renewable & AI Driven Grid Optimization:** PyPSA, Solar/Battery Dispatch Modeling
 - **Programming & Data:** Python, numpy, pandas, matplotlib, scikit-learn
-- **Experience:**  Experience: [AI-Driven Grid Operation & Optimization Internship, MULTIWORKS](MULTIWORKS_Internship_Certificate.pdf)|IESCO Substation Internship (11kV/33kV) | FoxESS Grid-Tied Solar Inverter Training
+- **Experience:**  Experience: [AI-Driven Grid Operation & Optimization Internship|IESCO Substation Internship (11kV/33kV) | FoxESS Grid-Tied Solar Inverter Training
 
 
 ---
