@@ -7,8 +7,9 @@ studies to AI-driven renewable energy grid integration. Currently building a
 project portfolio combining traditional power system engineering with Python and
 machine learning.
 ## 📜 Certifications
-- ## 📜 Certifications
+- ## 📜 Certifications## 📜 Certifications
 - [AI-Driven Grid Operation & Optimization Internship – MULTIWORKS](Internship_Certificate_Redacted.pdf)
+- [Substation Internship (SS&TL / P&I) – IESCO](IESCO_Internship_Certificate.pdf)
 
 📍 Based in Islamabad, Pakistan | Open to roles in GCC, and Europe
 
