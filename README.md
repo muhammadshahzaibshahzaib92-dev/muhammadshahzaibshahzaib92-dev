@@ -54,7 +54,7 @@ machine learning.
 | Project | Description | Tools | Status |
 |---|---|---|---|
 | ⚙️ [GOOSE Relay-Breaker Communication](https://github.com/muhammadshahzaibshahzaib92-dev/IEC-61850-Substation-Automation) | Publisher-subscriber IEDs exchanging GOOSE trip signals over the network | libiec61850, Python | ✅ Complete |
-| ⚙️ [Fault-to-GOOSE Protection Logic](https://github.com/muhammadshahzaibshahzaib92-dev/fault-to-goose-integration) | Links pandapower fault current detection to automatic GOOSE trip triggering | pandapower, libiec61850, Python | 🟡 In Progress |
+| ⚙️ [Fault-to-GOOSE Protection Logic](https://github.com/muhammadshahzaibshahzaib92-dev/fault-to-goose-integration) | Links pandapower fault current detection to automatic GOOSE trip triggering | pandapower, libiec61850, Python | ✅ Complete |
 | ⚙️ [Substation Live Monitoring Dashboard](https://github.com/muhammadshahzaibshahzaib92-dev/substation-monitoring-dashboard) | Real-time relay/breaker status, event log, and fault graph in browser | streamlit, pandas | 🟡 In Progress |
 
 ## 🎓 Education
