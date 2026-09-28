@@ -1,4 +1,4 @@
-# Hello, I'm Muhammad Shahzaib 👋
+# Hello, I'm Engineer Muhammad Shahzaib 👋
 
 **Electrical Engineer (Power)** | B.E. Air University, Islamabad (2026) | ETAP • pandapower • PyPSA • Python
 
