@@ -43,11 +43,11 @@ machine learning.
 ---
 ### 🛡️ IEC 61850 Substation Protection & Automation Portfolio
 
-> 🛠️ **IEC 61850 Substation Automation** — combines all projects below into one complete GOOSE-based protection pipeline *(actively in development)*
+> 🏆 **IEC 61850 Substation Automation** — combines all projects below into one complete GOOSE-based protection pipeline
 
 | Project | Description | Tools | Status |
 |---|---|---|---|
-| 🛠️ **[IEC 61850 Substation Automation](https://github.com/muhammadshahzaibshahzaib92-dev/iec61850-substation-automation)** | End-to-end GOOSE/MMS protection pipeline — relay-breaker automation linked with fault detection and live monitoring *(built using all 3 projects below)* | libiec61850, pandapower, streamlit | ✅ Complete |
+| 🏆 **[IEC 61850 Substation Automation](https://github.com/muhammadshahzaibshahzaib92-dev/iec61850-substation-automation)** | End-to-end GOOSE/MMS protection pipeline — relay-breaker automation linked with fault detection and live monitoring *(built using all 3 projects below)* | libiec61850, pandapower, streamlit | ✅ Complete |
 
 **ℹ️ Built from these individual components:**
 
