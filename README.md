@@ -34,11 +34,8 @@ I design and analyze power systems at the intersection of traditional engineerin
 | Project | Description | Tools | Status |
 |---|---|---|---|
 | ⚙️ [Substation Load Flow & Short Circuit Model](https://github.com/muhammadshahzaibshahzaib92-dev/substation-power-system-model) | 132kV/11kV substation analysis — load flow, transformer loading, fault currents | pandapower | ✅ Complete |
-
 | ⚙️ [Python Power Utilities](https://github.com/muhammadshahzaibshahzaib92-dev/python-power-utilities) | Beginner Python tools for power calculations and data handling | ETAP, Python, pandas | ✅ Complete |
-
 | ⚙️ [Solar + Battery Microgrid Optimization](https://github.com/muhammadshahzaibshahzaib92-dev/Solar-Battery-Microgrid-Optimization) | Optimal dispatch of solar PV + battery storage to minimize cost | PyPSA | ✅ Complete |
-
 | ⚙️ [AI Load Forecasting Tool](https://github.com/muhammadshahzaibshahzaib92-dev/AI_Load_Forecasting_Tool) | Machine learning model to predict next-day electrical load | scikit-learn | ✅ Complete |
 
 ---
@@ -48,14 +45,11 @@ I design and analyze power systems at the intersection of traditional engineerin
 | Project | Description | Tools | Status |
 |---|---|---|---|
 | 🏆 **[IEC 61850 Substation Automation](https://github.com/muhammadshahzaibshahzaib92-dev/iec61850-substation-automation)** | End-to-end GOOSE/MMS protection pipeline — relay-breaker automation linked with fault detection and live monitoring *(built using all 3 projects below)* | libiec61850, pandapower, streamlit | ✅ Complete |
-
 **ℹ️ Built from these individual components:**
 | Project | Description | Tools | Status |
 |---|---|---|---|
 | ⚙️ [GOOSE Relay-Breaker Communication](https://github.com/muhammadshahzaibshahzaib92-dev/goose-relay-breaker-communication) | Publisher-subscriber IEDs exchanging GOOSE trip signals over the network | libiec61850, Python | ✅ Complete |
-
 | ⚙️ [Fault-to-GOOSE Protection Logic](https://github.com/muhammadshahzaibshahzaib92-dev/fault-to-goose-integration) | Links pandapower fault current detection to automatic GOOSE trip triggering | pandapower, libiec61850, Python | ✅ Complete |
-
 | ⚙️ [Substation Live Monitoring Dashboard](https://github.com/muhammadshahzaibshahzaib92-dev/substation-monitoring-dashboard) | Real-time relay/breaker status, event log, and fault graph in browser | streamlit, pandas | ✅ Complete  |
 
 # ⚙️ ETAP Project Portfolio
