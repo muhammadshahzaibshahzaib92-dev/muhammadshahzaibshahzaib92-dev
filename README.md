@@ -3,75 +3,44 @@
 **Electrical Engineer (Power)** | B.E. Air University, Islamabad (2026) | ETAP • pandapower • PyPSA • Python
 
 I design and analyze power systems at the intersection of traditional engineering and modern automation — running ETAP-based load flow, short circuit, protection coordination, and HV substation design studies, while building Python-driven tools for grid modeling, AI-based load forecasting, and IEC 61850 substation automation. My portfolio bridges core power system analysis with data-driven and automated approaches to grid design and operation.
-
 📍 Based in Islamabad, Pakistan | Open to roles in Pakistan, the GCC, and Europe
+
+---
 ## 📜 Certifications
 - [AI-Driven Grid Operation & Optimization Internship – MULTIWORKS](Internship_Certificate_Redacted.pdf)
 - [Substation Internship (SS&TL / P&I) – IESCO](IESCO_Internship_Certificate.pdf)
 
-📍 Based in Islamabad, Pakistan | Open to roles in GCC, and Europe
-
 ---
-
 ## 🔧 Core Skills
 
-**Power System Analysis**
-- ETAP, pandapower — Load Flow, Short Circuit Analysis, Protection Coordination
-- Arc Flash (IEEE 1584), Earthing/Grounding Design (IEEE 80)
-- HV Substation Design, Single-Line Diagram Interpretation
-
-**Renewable & AI-Driven Grid Optimization**
-- PyPSA (energy system optimization & dispatch)
-- Solar + Battery Microgrid Dispatch Modeling
-- scikit-learn (load forecasting)
-
-**Substation Protection & Automation**
-- IEC 61850 (GOOSE/MMS), libiec61850
-- Relay-Breaker Communication, Fault Detection & Automated Tripping
-- Real-Time Monitoring Dashboards (streamlit)
-
-**Programming & Data**
-- Python, NumPy, pandas, Matplotlib, scikit-learn, Streamlit
-
-**Field & Practical Experience**
-- Live 11 kV/33 kV Substation Operations (IESCO)
-- Relay Configuration, HV Switching Procedures
-- Grid-Tied Solar PV Installation & Commissioning (FoxESS)
-
-**Documentation**
-- IEEE-Standard Compliance Reports
-- Automated Technical Reporting (Python-to-Excel/Word)
-- MS Office Suite
+**Power System Analysis:** ETAP, pandapower — Load Flow, Short Circuit, Protection Coordination, Arc Flash (IEEE 1584), Earthing Design (IEEE 80)
+**AI & Grid Optimization:** PyPSA, scikit-learn — Solar/Battery Dispatch Modeling, Load Forecasting
+**Substation Automation:** IEC 61850 (GOOSE/MMS), libiec61850 — Relay-Breaker Communication, Automated Fault Tripping
+**Programming:** Python, NumPy, pandas, Streamlit
+**Field Experience:** 11 kV/33 kV Substation Operations (IESCO), Relay Configuration, Solar PV Installation (FoxESS)
 
 ---
 ## 📂 Project Portfolio
 ## 🔌 AI-Driven Grid Optimization Portfolio
-
 > 🏆 **Capstone Project** — combines all projects below into one complete pipeline
-
 | Project | Description | Tools | Status |
 |---|---|---|---|
 | 🏆 **[AI-Driven Renewable Grid Integration (Capstone)](https://github.com/muhammadshahzaibshahzaib92-dev/ai-driven-renewable-grid-integration)** | **End-to-end pipeline** combining substation modeling + optimization + AI forecasting *(built using all 4 projects below)* | pandapower, PyPSA, scikit-learn | ✅ Complete |
-
 **⬇️ Built from these individual components:**
-
 | Project | Description | Tools | Status |
 |---|---|---|---|
 | ⚙️ [Substation Load Flow & Short Circuit Model](https://github.com/muhammadshahzaibshahzaib92-dev/substation-power-system-model) | 132kV/11kV substation analysis — load flow, transformer loading, fault currents | pandapower | ✅ Complete |
 | ⚙️ [Python Power Utilities](https://github.com/muhammadshahzaibshahzaib92-dev/python-power-utilities) | Beginner Python tools for power calculations and data handling | ETAP, Python, pandas | ✅ Complete |
 | ⚙️ [Solar + Battery Microgrid Optimization](https://github.com/muhammadshahzaibshahzaib92-dev/Solar-Battery-Microgrid-Optimization) | Optimal dispatch of solar PV + battery storage to minimize cost | PyPSA | ✅ Complete |
 | ⚙️ [AI Load Forecasting Tool](https://github.com/muhammadshahzaibshahzaib92-dev/AI_Load_Forecasting_Tool) | Machine learning model to predict next-day electrical load | scikit-learn | ✅ Complete |
+
 ---
 ### 🛡️ IEC 61850 Substation Protection & Automation Portfolio
-
 > 🏆 **IEC 61850 Substation Automation** — combines all projects below into one complete GOOSE-based protection pipeline
-
 | Project | Description | Tools | Status |
 |---|---|---|---|
 | 🏆 **[IEC 61850 Substation Automation](https://github.com/muhammadshahzaibshahzaib92-dev/iec61850-substation-automation)** | End-to-end GOOSE/MMS protection pipeline — relay-breaker automation linked with fault detection and live monitoring *(built using all 3 projects below)* | libiec61850, pandapower, streamlit | ✅ Complete |
-
 **ℹ️ Built from these individual components:**
-
 | Project | Description | Tools | Status |
 |---|---|---|---|
 | ⚙️ [GOOSE Relay-Breaker Communication](https://github.com/muhammadshahzaibshahzaib92-dev/goose-relay-breaker-communication) | Publisher-subscriber IEDs exchanging GOOSE trip signals over the network | libiec61850, Python | ✅ Complete |
@@ -79,9 +48,7 @@ I design and analyze power systems at the intersection of traditional engineerin
 | ⚙️ [Substation Live Monitoring Dashboard](https://github.com/muhammadshahzaibshahzaib92-dev/substation-monitoring-dashboard) | Real-time relay/breaker status, event log, and fault graph in browser | streamlit, pandas | ✅ Complete  |
 
 # ⚙️ ETAP Project Portfolio
-
 Power Systems Analysis — IESCO internship & independent study
-
 | Project | Description | Tools | Status |
 |---|---|---|---|
 | [Grid-Connected Real Industrial Plant Analysis](https://github.com/muhammadshahzaibshahzaib92-dev/ETAP-Grid-Connected-Plant-Analysis) | Load flow and short circuit analysis of a real industrial plant; verified relay settings and produced IEEE-standard reports | ETAP | ✅ Complete |
