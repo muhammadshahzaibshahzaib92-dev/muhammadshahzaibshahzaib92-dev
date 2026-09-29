@@ -64,10 +64,10 @@ Power Systems Analysis — IESCO internship & independent study
 | Project | Description | Tools | Status |
 |---|---|---|---|
 | [Grid-Connected Real Industrial Plant Analysis](https://github.com/muhammadshahzaibshahzaib92-dev/ETAP-Grid-Connected-Plant-Analysis) | Load flow and short circuit analysis of a real industrial plant; verified relay settings and produced IEEE-standard reports | ETAP | ✅ Complete |
-| [Mega Town Electrical Network Design](https://github.com/muhammadshahzaibshahzaib92-dev/mega-town-electrical-network-design) | Electrical network design for a 220 km² new town (~10,000 residential units), fed from the 500 kV national grid | ETAP | ✅ Complete |
-| [Optimal Load Flow of Single Bus System](https://github.com/muhammadshahzaibshahzaib92-dev/optimal-load-flow-single-bus) | Optimal load flow study on a single-bus system using three 200 MW generators and lumped loads | ETAP | ✅ Complete |
-| [Mega Substation Design — HV Power Systems Analysis](https://github.com/muhammadshahzaibshahzaib92-dev/mega-substation-design) | Complete HV substation design — SLD, load flow, short circuit, protection coordination, arc flash, IEEE 80 grounding | ETAP | ✅ Complete |
-| [Earthing & Ground Grid Design (IEEE 80)](https://github.com/muhammadshahzaibshahzaib92-dev/earthing-ground-grid-design) | Substation earthing grid design with touch/step voltage and ground resistance evaluation per IEEE 80 | ETAP | ✅ Complete |
+| [Mega Town Electrical Network Design](https://github.com/muhammadshahzaibshahzaib92-dev/mega-town-electrical-network-design) | Electrical network design for a 220 km² new town (~10,000 residential units), fed from the 500 kV national grid | ETAP | PROGRESS |
+| [Optimal Load Flow of Single Bus System](https://github.com/muhammadshahzaibshahzaib92-dev/optimal-load-flow-single-bus) | Optimal load flow study on a single-bus system using three 200 MW generators and lumped loads | ETAP | PROGRESS |
+| [Mega Substation Design — HV Power Systems Analysis](https://github.com/muhammadshahzaibshahzaib92-dev/mega-substation-design) | Complete HV substation design — SLD, load flow, short circuit, protection coordination, arc flash, IEEE 80 grounding | ETAP | PROGRESS |
+| [Earthing & Ground Grid Design (IEEE 80)](https://github.com/muhammadshahzaibshahzaib92-dev/earthing-ground-grid-design) | Substation earthing grid design with touch/step voltage and ground resistance evaluation per IEEE 80 | ETAP |PROGRESS |
 
 ## 🎓 Education
 **B.E. Electrical Engineering (Power)** — Air University, Islamabad (ABET-accredited)
