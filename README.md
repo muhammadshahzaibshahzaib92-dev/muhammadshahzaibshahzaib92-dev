@@ -3,6 +3,7 @@
 **Electrical Engineer (Power)** | ETAP • pandapower • PyPSA • Python
 
 I design and analyze power systems at the intersection of traditional engineering and modern automation — running ETAP-based load flow, short circuit, protection coordination, and HV substation design studies, while building Python-driven tools for grid modeling, AI-based load forecasting, and IEC 61850 substation automation. My portfolio bridges core power system analysis with data-driven and automated approaches to grid design and operation.
+
 📍 Based in Islamabad, Pakistan | Open to roles in Pakistan, the GCC, and Europe
 
 ---
