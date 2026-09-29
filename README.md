@@ -33,6 +33,7 @@ I design and analyze power systems at the intersection of traditional engineerin
 | Project | Description | Tools | Status |
 
 |---|---|---|---|
+
 | 🏆 **[AI-Driven Renewable Grid Integration (Capstone)](https://github.com/muhammadshahzaibshahzaib92-dev/ai-driven-renewable-grid-integration)** | 
 **End-to-end pipeline** combining substation modeling + optimization + AI forecasting *(built using all 4 projects below)* | pandapower, PyPSA, scikit-learn | ✅ Complete |
 
