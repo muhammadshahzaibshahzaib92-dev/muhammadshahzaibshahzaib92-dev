@@ -1,11 +1,8 @@
-# Hello, I'm Engineer Muhammad Shahzaib 👋
+# Hi, I'm Engineer Muhammad Shahzaib 👋
 
 **Electrical Engineer (Power)** | B.E. Air University, Islamabad (2026) | ETAP • pandapower • PyPSA • Python
-
-I design and analyze power systems — from substation load flow and short circuit
-studies to AI-driven renewable energy grid integration. Currently building a
-project portfolio combining traditional power system engineering with Python and
-machine learning.
+I design and analyze power systems — from ETAP-based load flow, short circuit, protection coordination, and HV substation design studies to AI-driven renewable energy grid integration and IEC 61850 substation automation. Currently building a project portfolio that combines traditional ETAP power system engineering with Python, machine learning, and modern grid automation protocols.
+📍 Based in Islamabad, Pakistan | Open to roles in Pakistan, the GCC, and Europe
 ## 📜 Certifications
 - [AI-Driven Grid Operation & Optimization Internship – MULTIWORKS](Internship_Certificate_Redacted.pdf)
 - [Substation Internship (SS&TL / P&I) – IESCO](IESCO_Internship_Certificate.pdf)
@@ -14,13 +11,14 @@ machine learning.
 
 ---
 
-### 🔧 Core Skills
+🔧 Core Skills
 
-- **Power System Analysis:** ETAP, pandapower — Load Flow, Short Circuit (IEEE 1584), Protection Coordination, IEEE 80 Grounding
-- **Renewable & AI Driven Grid Optimization:** PyPSA, Solar/Battery Dispatch Modeling
-- **Programming & Data:** Python, numpy, pandas, matplotlib, scikit-learn
-- **Experience:**  Experience: [AI-Driven Grid Operation & Optimization Internship|IESCO Substation Internship (11kV/33kV) | FoxESS Grid-Tied Solar Inverter Training
-
+Power System Analysis ETAP, pandapower — Load Flow, Short Circuit Analysis, Protection Coordination, Arc Flash (IEEE 1584), Earthing/Grounding Design (IEEE 80), HV Substation Design, Single-Line Diagram Interpretation
+Renewable & AI-Driven Grid Optimization PyPSA (energy system optimization & dispatch), Solar + Battery Microgrid Dispatch Modeling, scikit-learn (load forecasting)
+Substation Protection & Automation IEC 61850 (GOOSE/MMS), libiec61850, Relay-Breaker Communication, Fault Detection & Automated Tripping, Real-Time Monitoring Dashboards (streamlit)
+Programming & Data Python, NumPy, pandas, Matplotlib, scikit-learn, Streamlit
+Field & Practical Experience Live 11 kV/33 kV Substation Operations (IESCO), Relay Configuration, HV Switching Procedures, Grid-Tied Solar PV Installation & Commissioning (FoxESS)
+Documentation IEEE-Standard Compliance Reports, Automated Technical Reporting (Python-to-Excel/Word), MS Office Suite
 
 ---
 ## 📂 Project Portfolio
