@@ -14,9 +14,13 @@ I design and analyze power systems at the intersection of traditional engineerin
 ## 🔧 Core Skills
 
 **Power System Analysis:** ETAP, pandapower — Load Flow, Short Circuit, Protection Coordination, Arc Flash (IEEE 1584), Earthing Design (IEEE 80)
+
 **AI & Grid Optimization:** PyPSA, scikit-learn — Solar/Battery Dispatch Modeling, Load Forecasting
+
 **Substation Automation:** IEC 61850 (GOOSE/MMS), libiec61850 — Relay-Breaker Communication, Automated Fault Tripping
+
 **Programming:** Python, NumPy, pandas, Streamlit
+
 **Field Experience:** 11 kV/33 kV Substation Operations (IESCO), Relay Configuration, Solar PV Installation (FoxESS)
 
 ---
@@ -29,7 +33,6 @@ I design and analyze power systems at the intersection of traditional engineerin
 | Project | Description | Tools | Status |
 |---|---|---|---|
 | 🏆 **[AI-Driven Renewable Grid Integration (Capstone)](https://github.com/muhammadshahzaibshahzaib92-dev/ai-driven-renewable-grid-integration)** | **End-to-end pipeline** combining substation modeling + optimization + AI forecasting *(built using all 4 projects below)* | pandapower, PyPSA, scikit-learn | ✅ Complete |
-
 **⬇️ Built from these individual components:**
 | Project | Description | Tools | Status |
 |---|---|---|---|
