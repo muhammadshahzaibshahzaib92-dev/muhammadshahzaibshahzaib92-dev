@@ -1,7 +1,9 @@
 # Hi, I'm Engineer Muhammad Shahzaib 👋
 
 **Electrical Engineer (Power)** | B.E. Air University, Islamabad (2026) | ETAP • pandapower • PyPSA • Python
-I design and analyze power systems — from ETAP-based load flow, short circuit, protection coordination, and HV substation design studies to AI-driven renewable energy grid integration and IEC 61850 substation automation. Currently building a project portfolio that combines traditional ETAP power system engineering with Python, machine learning, and modern grid automation protocols.
+
+I design and analyze power systems at the intersection of traditional engineering and modern automation — running ETAP-based load flow, short circuit, protection coordination, and HV substation design studies, while building Python-driven tools for grid modeling, AI-based load forecasting, and IEC 61850 substation automation. My portfolio bridges core power system analysis with data-driven and automated approaches to grid design and operation.
+
 📍 Based in Islamabad, Pakistan | Open to roles in Pakistan, the GCC, and Europe
 ## 📜 Certifications
 - [AI-Driven Grid Operation & Optimization Internship – MULTIWORKS](Internship_Certificate_Redacted.pdf)
