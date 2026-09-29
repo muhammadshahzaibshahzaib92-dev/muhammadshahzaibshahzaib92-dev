@@ -11,14 +11,35 @@ I design and analyze power systems — from ETAP-based load flow, short circuit,
 
 ---
 
-🔧 Core Skills
+## 🔧 Core Skills
 
-Power System Analysis ETAP, pandapower — Load Flow, Short Circuit Analysis, Protection Coordination, Arc Flash (IEEE 1584), Earthing/Grounding Design (IEEE 80), HV Substation Design, Single-Line Diagram Interpretation
-Renewable & AI-Driven Grid Optimization PyPSA (energy system optimization & dispatch), Solar + Battery Microgrid Dispatch Modeling, scikit-learn (load forecasting)
-Substation Protection & Automation IEC 61850 (GOOSE/MMS), libiec61850, Relay-Breaker Communication, Fault Detection & Automated Tripping, Real-Time Monitoring Dashboards (streamlit)
-Programming & Data Python, NumPy, pandas, Matplotlib, scikit-learn, Streamlit
-Field & Practical Experience Live 11 kV/33 kV Substation Operations (IESCO), Relay Configuration, HV Switching Procedures, Grid-Tied Solar PV Installation & Commissioning (FoxESS)
-Documentation IEEE-Standard Compliance Reports, Automated Technical Reporting (Python-to-Excel/Word), MS Office Suite
+**Power System Analysis**
+- ETAP, pandapower — Load Flow, Short Circuit Analysis, Protection Coordination
+- Arc Flash (IEEE 1584), Earthing/Grounding Design (IEEE 80)
+- HV Substation Design, Single-Line Diagram Interpretation
+
+**Renewable & AI-Driven Grid Optimization**
+- PyPSA (energy system optimization & dispatch)
+- Solar + Battery Microgrid Dispatch Modeling
+- scikit-learn (load forecasting)
+
+**Substation Protection & Automation**
+- IEC 61850 (GOOSE/MMS), libiec61850
+- Relay-Breaker Communication, Fault Detection & Automated Tripping
+- Real-Time Monitoring Dashboards (streamlit)
+
+**Programming & Data**
+- Python, NumPy, pandas, Matplotlib, scikit-learn, Streamlit
+
+**Field & Practical Experience**
+- Live 11 kV/33 kV Substation Operations (IESCO)
+- Relay Configuration, HV Switching Procedures
+- Grid-Tied Solar PV Installation & Commissioning (FoxESS)
+
+**Documentation**
+- IEEE-Standard Compliance Reports
+- Automated Technical Reporting (Python-to-Excel/Word)
+- MS Office Suite
 
 ---
 ## 📂 Project Portfolio
