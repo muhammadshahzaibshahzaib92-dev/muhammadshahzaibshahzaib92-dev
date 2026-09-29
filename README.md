@@ -30,14 +30,13 @@ I design and analyze power systems at the intersection of traditional engineerin
 ## 🔌 AI-Driven Grid Optimization Portfolio
 
 > 🏆 **Capstone Project** — combines all projects below into one complete pipeline
+
 | Project | Description | Tools | Status |
-
 |---|---|---|---|
-
-| 🏆 **[AI-Driven Renewable Grid Integration (Capstone)](https://github.com/muhammadshahzaibshahzaib92-dev/ai-driven-renewable-grid-integration)** | 
-**End-to-end pipeline** combining substation modeling + optimization + AI forecasting *(built using all 4 projects below)* | pandapower, PyPSA, scikit-learn | ✅ Complete |
+| 🏆 **[AI-Driven Renewable Grid Integration (Capstone)](https://github.com/muhammadshahzaibshahzaib92-dev/ai-driven-renewable-grid-integration)** | **End-to-end pipeline** combining substation modeling + optimization + AI forecasting *(built using all 4 projects below)* | pandapower, PyPSA, scikit-learn | ✅ Complete |
 
 **⬇️ Built from these individual components:**
+
 | Project | Description | Tools | Status |
 |---|---|---|---|
 | ⚙️ [Substation Load Flow & Short Circuit Model](https://github.com/muhammadshahzaibshahzaib92-dev/substation-power-system-model) | 132kV/11kV substation analysis — load flow, transformer loading, fault currents | pandapower | ✅ Complete |
@@ -46,18 +45,22 @@ I design and analyze power systems at the intersection of traditional engineerin
 | ⚙️ [AI Load Forecasting Tool](https://github.com/muhammadshahzaibshahzaib92-dev/AI_Load_Forecasting_Tool) | Machine learning model to predict next-day electrical load | scikit-learn | ✅ Complete |
 
 ---
+
 ### 🛡️ IEC 61850 Substation Protection & Automation Portfolio
 
 > 🏆 **IEC 61850 Substation Automation** — combines all projects below into one complete GOOSE-based protection pipeline
+
 | Project | Description | Tools | Status |
 |---|---|---|---|
 | 🏆 **[IEC 61850 Substation Automation](https://github.com/muhammadshahzaibshahzaib92-dev/iec61850-substation-automation)** | End-to-end GOOSE/MMS protection pipeline — relay-breaker automation linked with fault detection and live monitoring *(built using all 3 projects below)* | libiec61850, pandapower, streamlit | ✅ Complete |
+
 **ℹ️ Built from these individual components:**
+
 | Project | Description | Tools | Status |
 |---|---|---|---|
 | ⚙️ [GOOSE Relay-Breaker Communication](https://github.com/muhammadshahzaibshahzaib92-dev/goose-relay-breaker-communication) | Publisher-subscriber IEDs exchanging GOOSE trip signals over the network | libiec61850, Python | ✅ Complete |
 | ⚙️ [Fault-to-GOOSE Protection Logic](https://github.com/muhammadshahzaibshahzaib92-dev/fault-to-goose-integration) | Links pandapower fault current detection to automatic GOOSE trip triggering | pandapower, libiec61850, Python | ✅ Complete |
-| ⚙️ [Substation Live Monitoring Dashboard](https://github.com/muhammadshahzaibshahzaib92-dev/substation-monitoring-dashboard) | Real-time relay/breaker status, event log, and fault graph in browser | streamlit, pandas | ✅ Complete  |
+| ⚙️ [Substation Live Monitoring Dashboard](https://github.com/muhammadshahzaibshahzaib92-dev/substation-monitoring-dashboard) | Real-time relay/breaker status, event log, and fault graph in browser | streamlit, pandas | ✅ Complete |
 
 # ⚙️ ETAP Project Portfolio
 Power Systems Analysis — IESCO internship & independent study
