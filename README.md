@@ -22,7 +22,7 @@ I design and analyze power systems at the intersection of traditional engineerin
 
 **Programming:** Python, NumPy, pandas, Streamlit
 
-**Field Experience:** 11 kV/33 kV Substation Operations (IESCO), Relay Configuration, Solar PV Installation (FoxESS)
+**Field Experience:** 11 kV/33 kV Substation Operations (IESCO), AI Grid Driven Operation & Optimization (MULTIWORKS)
 
 ---
 
