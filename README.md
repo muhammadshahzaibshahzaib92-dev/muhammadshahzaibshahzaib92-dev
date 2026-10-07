@@ -73,6 +73,17 @@ Power Systems Analysis — IESCO internship & independent study
 | [Modeling and Simulation of Protective Relaying](https://github.com/muhammadshahzaibshahzaib92-dev/modeling-simulation-protective-relaying) | Inverse-time overcurrent relay modeled on a self-designed distribution network — GE Multilin reference, IEC Curve C, validated under a 3-line-to-ground fault | ETAP | ✅ Complete |
 | [Earthing & Ground Grid Design (IEEE 80)](https://github.com/muhammadshahzaibshahzaib92-dev/earthing-ground-grid-design) | Substation earthing grid design with touch/step voltage and ground resistance evaluation per IEEE 80 | ETAP | ✅ Complete |
 
+| Project | Description | Tools | Status |
+|---|---|---|---|
+| **OT/ICS Cybersecurity for Substations (Capstone) — Combination of Different Projects** | | | |
+| [Modbus Traffic Simulator](https://github.com/muhammadshahzaibshahzaib92-dev/modbus-traffic-simulator) | Virtual Modbus RTU server + client simulating substation communication; normal traffic dataset generation | pymodbus, Python |IN  PROGRESS |
+| [DNP3 Traffic Simulator](https://github.com/muhammadshahzaibshahzaib92-dev/dnp3-traffic-simulator) | DNP3 protocol traffic simulation for industrial control communication | pydnp3, Python |IN  PROGRESS |
+| [Attack Simulation & Dataset Builder](https://github.com/muhammadshahzaibshahzaib92-dev/ot-attack-simulation-dataset) | Simulated unauthorized commands, flooding, and replay attacks; built labeled dataset for ML training | Python, scapy, pandas | IN  PROGRESS |
+| [ML-Based Intrusion Detection](https://github.com/muhammadshahzaibshahzaib92-dev/ml-intrusion-detection-ics) | RandomForest classifier detecting anomalous OT traffic (normal vs attack) in real time | scikit-learn, pandas |IN  PROGRESS |
+| [OT Security Monitoring Dashboard](https://github.com/muhammadshahzaibshahzaib92-dev/ot-security-monitoring-dashboard) | Real-time Streamlit dashboard showing live traffic status, alert history, and attack breakdown | Streamlit, Python | IN  PROGRESSe |
+| [✅ OT/ICS Cybersecurity for Substations (Capstone)](https://github.com/muhammadshahzaibshahzaib92-dev/ot-ics-cybersecurity-substation) | End-to-end pipeline: Modbus/DNP3 simulation + attack generation + ML intrusion detection + live security dashboard | pymodbus, scikit-learn, Streamlit | IN  PROGRESS |
+
+
 ## 🎓 Education
 **B.E. Electrical Engineering (Power)** — Air University, Islamabad (ABET-accredited)
 Final Year Project: Single-phase 5kVA Transformer-less HERIC Topology Grid-Tied Inverter with MPPT
