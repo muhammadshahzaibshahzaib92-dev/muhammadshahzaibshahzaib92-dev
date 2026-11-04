@@ -10,7 +10,7 @@ I design and analyze power systems at the intersection of traditional engineerin
 ## 📜 Certifications
 - [AI-Driven Grid Operation & Optimization Internship – MULTIWORKS](Internship_Certificate_Redacted.pdf)
 - [Substation Internship (SS&TL / P&I) – IESCO](IESCO_Internship_Certificate.pdf)
-## Fiverr. Services 
+## I do power system studies in ETAP and Python grid modeling. Hire me on Fiverr
 [ https://www.fiverr.com/s/DmQ5r4P ]
 
 ---
